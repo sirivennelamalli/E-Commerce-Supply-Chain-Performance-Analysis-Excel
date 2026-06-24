@@ -1,5 +1,6 @@
 # E-Commerce-Supply-Chain-Performance-Analysis-Excel
-Interactive Excel Dashboard for E-Commerce Supply Chain Performance Analysis using Pivot Tables, Charts, Slicers, and Data Visualization.
+
+Interactive Excel Dashboard for E-Commerce Supply Chain Performance Analysis using Pivot Tables, Pivot Charts, Slicers, and Data Visualization Techniques.
 
 ## Project Overview
 
