@@ -6,6 +6,7 @@ Interactive Excel Dashboard for E-Commerce Supply Chain Performance Analysis usi
 This project presents an interactive Excel dashboard designed to analyze e-commerce supply chain performance and customer traffic patterns.
 
 The dashboard provides insights into revenue trends, customer engagement, product category performance, delivery efficiency, and order fulfillment status.
+
 ---
 ## Key Features
 - Revenue Trend Analysis
